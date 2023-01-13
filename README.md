@@ -5,7 +5,7 @@ This Game Jam was organized by the NBCC - Game Development students to practice 
 
 The GJ's restrictions were to build a console game with the theme **Treasure Hunt**.
 
-Treasure Hunt is an Auto-run platformer where all levels are located within a map. The objective is for the player to find the trasure hidden within the island.
+Treasure Runner is an Auto-run platformer where all levels are located within a map. The objective is for the player to find the trasure hidden within the island.
 
 Each time the player travels to a new node, they must run certain distance. As the player goes north, the distances become larger, with more enemies and faster. The player has only five lives and falling into a pit is game over.
 
