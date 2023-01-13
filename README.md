@@ -1,4 +1,4 @@
-# TreasureHunt
+# Treasure Runner
 Small console project made for an in-house Game Jam at NBCC Game Development.
 
 This Game Jam was organized by the NBCC - Game Development students to practice after the first Fall term. The only experience they had at this moment was to create games with console output.
